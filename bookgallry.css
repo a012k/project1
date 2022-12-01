@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&display=swap');
+
+div{
+    width: 23%;
+
+   background-color:darkslateblue;
+    border: white 4px solid;
+    float: left;
+    color: white;
+    height: 450px;
+    padding: 6px;
+}
+
+
+p{
+    text-align: center;
+}
+p{
+    color: aqua;
+    font-size: medium;
+    font-family:font-family: 'Rubik Marker Hatch', cursive;
+}
+img{
+
+    width: 90%;
+    height: 200px;
+
+}
